@@ -1,0 +1,7 @@
+<module rename-to="client">
+    <!--Can it be? <inherits name='com.google.gwt.core.Core'/>   -->
+    <inherits name='com.google.gwt.user.User'/>
+
+    <source path="client"/>
+    <entry-point class="com.appid.client.Client"/>
+</module>

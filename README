@@ -1,0 +1,8 @@
+Maven-based template app that I use when creating new java appengine app.
+Contains:
+  GWT
+  GWT-Query
+  Objectify
+  Guice
+
+To run: "mvn gwt:run"
